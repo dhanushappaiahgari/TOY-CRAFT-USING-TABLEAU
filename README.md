@@ -16,6 +16,15 @@ This project demonstrates the power of **data storytelling with Tableau**. It is
 ## 🛠️ Requirements
 - Tableau Desktop or Tableau Public  
 - Toy dataset (CSV/Excel format)  
+## CODE
+-TOY-Craft-Tableau/
+│── data/            # Raw datasets (CSV/Excel)
+│   └── toy_sales.csv
+│── dashboards/      # Tableau workbook files (.twb/.twbx)
+│   └── toy_craft_dashboard.twbx
+│── scripts/         # Optional preprocessing scripts
+│   └── preprocess.py
+│── README.md        # Documentation
 
 ## 🚀 How to Use
 1. Clone this repository:
